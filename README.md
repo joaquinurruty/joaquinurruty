@@ -8,7 +8,7 @@ Desarrollador apasionado por la programación, el aprendizaje continuo y la crea
 
 ## 🚀 Sobre mí
 
-- 💻 Desarrollador enfocado en backend y desarrollo web
+- 💻 Desarrollador junior con enfoque en fullstack
 - 📚 Siempre aprendiendo nuevas tecnologías
 - 🧠 Interesado en programación, automatización y desarrollo de herramientas útiles
 - 🌍 Construyendo proyectos y mejorando mis habilidades cada día
@@ -20,19 +20,6 @@ Desarrollador apasionado por la programación, el aprendizaje continuo y la crea
 <p>
 <img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,mysql,docker,linux,git" />
 </p>
-
-**Lenguajes y herramientas con las que trabajo:**
-
-- Python
-- HTML5
-- CSS
-- JavaScript
-- FastAPI
-- NiceGUI
-- MySQL
-- Docker
-- Linux
-- Git
 
 ---
 
@@ -47,8 +34,8 @@ Minijuego interactivo sobre programación donde los jugadores deben adivinar con
 
 ## 📫 Contacto
 
-- 💼 LinkedIn: https://linkedin.com/in/TU-LINK
-- 📧 Email: TUEMAIL@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/joaquinurruty
+- 📧 Email: jourruty17@gmail.com
 
 ---
 
